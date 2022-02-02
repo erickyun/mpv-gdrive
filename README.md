@@ -3,7 +3,7 @@
 Put gdrive.lua in ~/.config/mpv/scripts/gdrive.lua  
 Put gdrive.conf in ~/.config/mpv/script-opts/gdrive.conf
 
-Now You need to fill in your gdrive account Client ID, Client Secret and Refresh Token for gdrive.conf file to use this script
+Now You need to fill in your gdrive account Client ID, Client Secret and Refresh Token for gdrive.conf to use this script
 
 
 
