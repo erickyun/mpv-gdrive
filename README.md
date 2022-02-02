@@ -62,7 +62,7 @@ Add your gmail account
 
 Next: [Getting your Refresh Token](2-getting-your-refresh-token.md) | [Back to README](../README.md)
 
-# Laravel & Google Drive Storage
+
 
 ## Getting your Refresh Token
 
