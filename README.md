@@ -14,49 +14,59 @@ Log in to your Google Account and go to this website:
 
 https://console.developers.google.com/
 
-### Create a Project
-
-Create a new project using the dropdown at the top.
-
-<img width="463" alt="Create a new project" src="https://cloud.githubusercontent.com/assets/3598622/22397261/060eac9e-e56e-11e6-907c-717932605569.png">
-
-After you enter a name, it takes a few seconds before the project is successfully created on the server.
-
-### Enable Drive API
-
-Make sure you have the project selected at the top.
-
-Then go to Library and click on "Drive API" under "G Suite APIs".
-
-<img width="1168" alt="Add Drive API" src="https://user-images.githubusercontent.com/3598622/28462245-a13b3d9c-6e1a-11e7-8cf8-0082ac8a9141.png">
-
-And then Enable it.
-
-<img width="383" alt="Enable Google Drive API" src="https://cloud.githubusercontent.com/assets/3598622/22397290/a858c6d8-e56e-11e6-9154-0052d7ecd0eb.png">
 
 ### Create Credentials
 
-Go to "Credentials" and click on the tab "OAuth Consent Screen". Fill in a "Product name shown to users" and Save it. Don't worry about the other fields.
+Go to "Credentials" 
 
-<img width="896" alt="Consent Screen" src="https://cloud.githubusercontent.com/assets/3598622/22397326/549fb3c0-e56f-11e6-9b0a-8771b0ba72b4.png">
+<img width="246" alt="Consent Screen" src="https://user-images.githubusercontent.com/71968711/152441635-0e4ed524-7185-4716-a4b7-9b518ec1c908.jpg">
 
-Then go back to Credentials, click the button that says "Create Credentials" and select "OAuth Client ID".
+click the button that says "Create Credentials" and select "OAuth Client ID".
 
-<img width="435" alt="Create Credentials" src="https://cloud.githubusercontent.com/assets/3598622/22397368/33f8bd0a-e570-11e6-859c-34d112c772e4.png">
+<img width="646" alt="Create Credentials" src="https://user-images.githubusercontent.com/71968711/152442150-4b557097-0eca-4198-9a25-dd7584e72794.png">
 
-Choose "Web Application" and give it a name.
+Next select select application type "web Application"
+
+<img width="646" alt="web Application" src="https://user-images.githubusercontent.com/71968711/152442534-f3f2ab6f-ab46-474f-a43a-fa9bbe0328c6.png">
+
+
 
 Add https://developers.google.com/oauthplayground in "Authorized redirect URIs". You will need to use this in the next step to get your refresh token. Once you have the token, you can remove the URI.
 
-<img width="910" alt="Credentials" src="https://user-images.githubusercontent.com/3598622/28473452-e675826c-6e44-11e7-8ff0-bea423b0cff7.png">
+<img width="910" alt="Authorized redirect URIs" src="https://user-images.githubusercontent.com/71968711/152442752-7375e972-ad5b-4e89-8d67-4142e1a13b9a.png">
+
+
 
 Click Create and take note of your **Client ID** and **Client Secret**.
+
+<img width="910" alt="Create" src="https://user-images.githubusercontent.com/71968711/152442933-a0615444-6e63-454c-a57c-b96cb048dfa4.jpg">
+
 
 
 Go to your developer console.
 Go to OAuth consent screen.
+
+<img width="328" alt="OAuth consent screen" src="https://user-images.githubusercontent.com/71968711/152443205-d3faa5b4-5078-49b3-9de9-c770f67561dd.jpg">
+
+User Type "External" after click create
+
+<img width="556" alt="User Type" src="https://user-images.githubusercontent.com/71968711/152443398-1e1c2162-d887-42ca-8c6f-f4d697269acf.png">
+
+Fill required places "*" only 
+
+<img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443524-b42c5099-45a5-43a2-b632-fd481cf31ba9.png">
+
+
+Go to next step. Don't worry about the other fields. 
+
+<img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443663-3fb1cf55-91df-455c-8cf9-b5793a817b1b.png">
+
+
 Go to +Add users, under test users.
 Add your gmail account
+
+<img width="556" alt="acc" src="https://user-images.githubusercontent.com/71968711/152443786-c3bf9a85-d318-46ac-b7fd-e47e94f1aa12.png">
+
 
 ##Next we will be getting your Refresh Token
 ---
@@ -109,3 +119,6 @@ Now when browsing Google Drive you should have something like this on the
 bottom left:
 
 ![](https://user-images.githubusercontent.com/1446315/79535328-4c868700-80a7-11ea-9750-77175d2928c8.png)
+
+
+
