@@ -8,7 +8,6 @@ OPTIONS = {}
 -----------------------------
 
 function on_load_hook()
-    print("Loading GDrive script")
     local path = mp.get_property("path", "")
     file_id = detect_gdrive_file_id(path)
     if file_id then
@@ -23,7 +22,6 @@ function on_load_hook()
         -- Add "refresh token" hook iff this is an actual gdrive path
         mp.add_hook("on_load_fail", 50, on_load_fail_hook)
     else
-        print("Not google drive link, doing nothing.")
     end
 
 end
