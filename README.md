@@ -57,12 +57,12 @@ Fill required places "*" only
 <img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443524-b42c5099-45a5-43a2-b632-fd481cf31ba9.png">
 
 
-Go to next step. Don't worry about the other fields. 
+in this step Don't worry about the other fields. Go to next step.
 
 <img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443663-3fb1cf55-91df-455c-8cf9-b5793a817b1b.png">
 
 
-Go to +Add users, under test users.
+Click on +Add users, under test users.
 Add your gmail account
 
 <img width="556" alt="acc" src="https://user-images.githubusercontent.com/71968711/152443786-c3bf9a85-d318-46ac-b7fd-e47e94f1aa12.png">
