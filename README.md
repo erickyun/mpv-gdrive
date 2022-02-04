@@ -25,7 +25,7 @@ click the button that says "Create Credentials" and select "OAuth Client ID".
 
 <img width="646" alt="Create Credentials" src="https://user-images.githubusercontent.com/71968711/152442150-4b557097-0eca-4198-9a25-dd7584e72794.png">
 
-Next select select application type "web Application"
+Next select application type "web Application"
 
 <img width="646" alt="web Application" src="https://user-images.githubusercontent.com/71968711/152442534-f3f2ab6f-ab46-474f-a43a-fa9bbe0328c6.png">
 
