@@ -23,7 +23,7 @@ Create a new project using the dropdown at the top.
 
 After you enter a name
 
-Next 
+Next Step
 
 <img width="463" alt="Enable Gdrive" src="https://user-images.githubusercontent.com/71968711/153625344-2bd04e58-f220-4c44-a5e4-4078e78cff5f.jpg">
 
