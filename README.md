@@ -17,6 +17,22 @@ https://console.developers.google.com/
 
 ### Create Credentials
 
+Create a new project using the dropdown at the top.
+
+<img width="463" alt="Create a new project" src="https://cloud.githubusercontent.com/assets/3598622/22397261/060eac9e-e56e-11e6-907c-717932605569.png">
+
+After you enter a name
+
+Next 
+
+<img width="463" alt="Enable Gdrive" src="https://user-images.githubusercontent.com/71968711/153625344-2bd04e58-f220-4c44-a5e4-4078e78cff5f.jpg">
+
+Now go to library and ENABLE "Google Drive Api"
+ 
+
+
+  NEXT STEPS
+  
 Go to "Credentials" 
 
 <img width="246" alt="Consent Screen" src="https://user-images.githubusercontent.com/71968711/152441635-0e4ed524-7185-4716-a4b7-9b518ec1c908.jpg">
