@@ -33,6 +33,33 @@ Now go to library and ENABLE "Google Drive Api"
 
   NEXT STEPS
   
+Go to your developer console.
+Go to OAuth consent screen.
+
+<img width="328" alt="OAuth consent screen" src="https://user-images.githubusercontent.com/71968711/152443205-d3faa5b4-5078-49b3-9de9-c770f67561dd.jpg">
+
+User Type "External" after click create
+
+<img width="556" alt="User Type" src="https://user-images.githubusercontent.com/71968711/152443398-1e1c2162-d887-42ca-8c6f-f4d697269acf.png">
+
+Fill required places "*" only 
+
+<img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443524-b42c5099-45a5-43a2-b632-fd481cf31ba9.png">
+
+
+in this step Don't worry about the other fields. Go to next step.
+
+<img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443663-3fb1cf55-91df-455c-8cf9-b5793a817b1b.png">
+
+
+Click on +Add users, under test users.
+Add your gmail account
+
+<img width="556" alt="acc" src="https://user-images.githubusercontent.com/71968711/152443786-c3bf9a85-d318-46ac-b7fd-e47e94f1aa12.png">
+
+Save continue and Publish App
+  
+  
 Go to "Credentials" 
 
 <img width="246" alt="Consent Screen" src="https://user-images.githubusercontent.com/71968711/152441635-0e4ed524-7185-4716-a4b7-9b518ec1c908.jpg">
@@ -59,29 +86,7 @@ Click Create and take note of your **Client ID** and **Client Secret**.
 
 
 
-Go to your developer console.
-Go to OAuth consent screen.
 
-<img width="328" alt="OAuth consent screen" src="https://user-images.githubusercontent.com/71968711/152443205-d3faa5b4-5078-49b3-9de9-c770f67561dd.jpg">
-
-User Type "External" after click create
-
-<img width="556" alt="User Type" src="https://user-images.githubusercontent.com/71968711/152443398-1e1c2162-d887-42ca-8c6f-f4d697269acf.png">
-
-Fill required places "*" only 
-
-<img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443524-b42c5099-45a5-43a2-b632-fd481cf31ba9.png">
-
-
-in this step Don't worry about the other fields. Go to next step.
-
-<img width="556" alt="req" src="https://user-images.githubusercontent.com/71968711/152443663-3fb1cf55-91df-455c-8cf9-b5793a817b1b.png">
-
-
-Click on +Add users, under test users.
-Add your gmail account
-
-<img width="556" alt="acc" src="https://user-images.githubusercontent.com/71968711/152443786-c3bf9a85-d318-46ac-b7fd-e47e94f1aa12.png">
 
 
 ##Next we will be getting your Refresh Token
