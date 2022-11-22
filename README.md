@@ -129,8 +129,8 @@ When you get to step 3, click on step 2 again and you should see your **refresh 
 Now You have have everything you need to use this script your done
 
 
-Note: the refresh token does expire in a couple of days so when the script doesn't work you have to get ONLY the refresh token again (So you have to ONLY repeat the steps in [refresh token](https://github.com/erickyun/mpv-gdrive#getting-your-refresh-token) again no need for the other steps)
-
+Note: İf you don't "Publish app" then the refresh token will expire in a couple of days! So when the script doesn't work you have to get ONLY the refresh token again (So you have to ONLY repeat the steps in [refresh token](https://github.com/erickyun/mpv-gdrive#getting-your-refresh-token) again no need for the other steps).
+So YOU BETTER "Publish app" to avoid THİS!
 
 ## Helper userscript
 
